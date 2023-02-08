@@ -1,0 +1,14 @@
+name = "sample1"
+kind = "ImageSorter"
+
+[[input.stream]]
+name = "scccamera.raw"
+# stream ID queried from service discovery
+
+[[output.stream]]
+name = "fringed"
+# new stream ID generated after querying from service dir and then registered.
+
+[[output.stream]]
+name = "unfringed"
+# new stream ID generated after querying from service dir and then registered.

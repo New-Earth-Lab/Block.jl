@@ -1,0 +1,9 @@
+name = "Block"
+uuid = "b6d2d554-3b56-4750-a4b1-cb2eab9f05a0"
+authors = ["William Thompson <wthompson@uvic.ca>"]
+version = "1.0.0"
+
+[deps]
+Aeron = "42ac8a32-990f-4d8c-aece-52d731103226"
+Oxygen = "df9a0d86-3283-4920-82dc-4555fc0d1d8b"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
